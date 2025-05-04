@@ -13,4 +13,5 @@ getgenv().Games = {
   [99999183305180] = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Pro Servers
   [92517437168342] = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Customs
   [82577947590704] = "https://api.luarmor.net/files/v3/loaders/fbc854090940d543550e6396a0d7c947.lua", -- Blue Lock: Rivals // Intro
+  [72829404259339] = "https://api.luarmor.net/files/v3/loaders/d9b4281dc4937a8409fd4069d25c6885.lua", -- Anime Rangers X
 }
