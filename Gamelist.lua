@@ -11,4 +11,6 @@ getgenv().Games = {
   [3351674303] = "https://api.luarmor.net/files/v3/loaders/3dd8029e73d52fb980e0ec5fb6aeda2a.lua", -- Driving empire
   [16732694052] = "https://api.luarmor.net/files/v3/loaders/95f7791a6fd1d4e10028ee42363ddaab.lua", -- Fisch
   [131716211654599] = "https://api.luarmor.net/files/v3/loaders/95f7791a6fd1d4e10028ee42363ddaab.lua", -- Fisch // New Players Servers
+  [79546208627805] = "https://api.luarmor.net/files/v3/loaders/21a3bfe6d12121523c7b9df46771309c.lua", -- 99 Nights in the Forest
+  [126509999114328] = "https://api.luarmor.net/files/v3/loaders/21a3bfe6d12121523c7b9df46771309c.lua", -- 99 Nights in the Forest // In Game Servers
 }
