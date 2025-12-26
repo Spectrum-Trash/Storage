@@ -13,4 +13,5 @@ getgenv().Games = {
   [131716211654599] = "https://api.luarmor.net/files/v3/loaders/95f7791a6fd1d4e10028ee42363ddaab.lua", -- Fisch // New Players Servers
   [76558904092080] = "https://api.luarmor.net/files/v3/loaders/62af0cb0c967bf9b439906ed535ad619.lua", -- The Forge // Main
   [129009554587176] = "https://api.luarmor.net/files/v3/loaders/62af0cb0c967bf9b439906ed535ad619.lua", -- The Forge // Forgotten Kingdom
+  [131884594917121] = "https://api.luarmor.net/files/v3/loaders/62af0cb0c967bf9b439906ed535ad619.lua", -- The Forge // Frostspire Expanse
 }
