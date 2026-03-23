@@ -44,6 +44,6 @@ if not supported then
         "━━━━━━━━━━━━━━━━━━━━━━━━\n" ..
         "❌  This game is not supported yet.\n" ..
         "Join our Discord for updates!\n" ..
-        "🌐  https://discord.gg/C3MpUNwsDU"
+        "🌐  https://discord.gg/hackerclub"
     )
 end
