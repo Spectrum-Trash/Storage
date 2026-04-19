@@ -5,6 +5,7 @@ getgenv().Games = {
     -- ══════════════════════════════════════════════════════
 
     [77747658251236]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Main
+    [130167267952199]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Sea 2
     [96767841099256]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Boss Rush
     [138368689293913] = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Infinity Tower
     [123955125827131] = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Double Dungeon
