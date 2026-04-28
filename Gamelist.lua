@@ -11,6 +11,7 @@ getgenv().Games = {
     [123955125827131] = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Double Dungeon
     [75159314259063]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Cid Dungeon
     [99684056491472]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Rune Dungeon
+    [98826438856089]  = "https://api.luarmor.net/files/v4/loaders/2804a7f362b23eab6eb1ead064252aca.lua", -- Sailor Piece // Crystal Defense
     [3351674303]      = "https://api.luarmor.net/files/v3/loaders/3dd8029e73d52fb980e0ec5fb6aeda2a.lua", -- Driving Empire
 
     -- ══════════════════════════════════════════════════════
